@@ -14,3 +14,5 @@ while (k < 100):
 
 print(i, j)
 print(counter)
+
+print("izmenenie")
